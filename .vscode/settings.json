@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sln": "bat",
+        "iostream": "cpp",
+        "xiosbase": "cpp"
+    }
+}
